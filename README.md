@@ -25,5 +25,5 @@
   Final conclusion
   
 # Contact
-  linkedin, github, medium, etc 
+  linkedin, github, etc 
   
