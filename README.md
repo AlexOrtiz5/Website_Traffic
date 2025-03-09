@@ -5,10 +5,23 @@
   This project aims to analyze website traffic patterns, identify user behavior, and pinpoint areas for improvement in website design and user experience. The data used for this analysis was obtained from the 'Website Traffic' dataset available on Kaggle (https://www.kaggle.com/datasets/anthonytherrien/website-traffic). By examining key metrics such as page views, session duration, bounce rate, traffic source, time on page, previous visits, and conversion rate, this project seeks to provide actionable insights to enhance website performance and optimize the user journey.
 
 # Methods
-  List with methods, ex:
-  - Filtering
-  - Grouping
-  - Visualization
+  List with methods:
+  - Data Loading: Reading the CSV dataset into a Pandas DataFrame.
+  - Data Cleaning:
+    - Handling missing values (imputation, removal).
+    - Data type correction (numeric conversions, string manipulation).
+    - Outlier detection and handling.
+    - Standardizing categorical data.
+  - Filtering: Selecting specific subsets of data based on conditions.
+  - Grouping: Aggregating data based on categorical variables (e.g., traffic source).
+  - Aggregation: Calculating summary statistics (mean, median, count, etc.).
+  - Visualization:
+    - Bar charts.
+    - Pie charts.
+    - Histograms.
+    - Box plots.
+    - Line plots.
+  - Statistical Analysis: Calculating metrics like bounce rate, conversion rate, and average session duration.
 
 # Technologies 
   List with used technologies:
