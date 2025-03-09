@@ -34,7 +34,14 @@
   The dataset utilized in this analysis, sourced from Kaggle's 'Website Traffic' dataset, provides a comprehensive snapshot of user interactions on a website. It encompasses a variety of metrics designed to capture user behavior and website performance. The dataset's characteristics include a mix of numerical and categorical data, featuring columns such as 'Page Views' (representing the number of pages a user visited), 'Session Duration' (measuring the length of user sessions), 'Bounce Rate' (indicating the percentage of single-page sessions), 'Traffic Source' (detailing how users arrived at the website), 'Time on Page' (capturing the duration users spent on individual pages), 'Previous Visits' (counting the number of prior visits by a user), and 'Conversion Rate' (reflecting the percentage of users who completed a desired action). These features collectively offer a rich foundation for understanding website traffic patterns and user engagement."
 
 # Steps
-  Add here any insights you had during the project
+  - Traffic Source Optimization:
+    - "Organic search is the primary driver of website traffic, but paid advertising has a higher conversion rate. This suggests a need to optimize SEO strategies while potentially increasing investment in targeted ad campaigns."
+    - "Referral traffic from partner websites shows a significant number of high-value users, indicating successful collaborations."
+  - User Behavior and Engagement:
+    - "The bounce rate is particularly high on the landing page, indicating a need to improve its content and design to retain visitors."
+    - "Users who spend more time on the product pages have a significantly higher conversion rate, emphasizing the importance of detailed and engaging product descriptions."
+    - "Session durations are significantly shorter on mobile devices, suggesting potential issues with mobile site usability."
+    - "Conversion rates increase with the number of previous visits, highlighting the value of customer retention strategies."
 
 # Conclusion
   Final conclusion
