@@ -6,22 +6,52 @@
 
 # Methods
   List with methods:
-  - Data Loading: Reading the CSV dataset into a Pandas DataFrame.
+  - Data Loading:
+    Reading the CSV dataset into a Pandas DataFrame.
   - Data Cleaning:
-    - Handling missing values (imputation, removal).
-    - Data type correction (numeric conversions, string manipulation).
-    - Outlier detection and handling.
-    - Standardizing categorical data.
-  - Filtering: Selecting specific subsets of data based on conditions.
-  - Grouping: Aggregating data based on categorical variables (e.g., traffic source).
-  - Aggregation: Calculating summary statistics (mean, median, count, etc.).
+    Handling missing values (imputation, removal).
+    Data type correction (numeric conversions, string manipulation).
+    Outlier detection and handling.
+    Standardizing categorical data.
+    Encoding categorical data (One-Hot Encoding).
+    Scaling numerical data (StandardScaler, MinMaxScaler).
+  - Filtering:
+    Selecting specific subsets of data based on conditions.
+  - Grouping:
+    Aggregating data based on categorical variables (e.g., traffic source).
+  - Aggregation:
+    Calculating summary statistics (mean, median, count, etc.).
+  - Feature Engineering:
+    Creating interaction and ratio features.
+    Creating binary features.
   - Visualization:
-    - Bar charts.
-    - Pie charts.
-    - Histograms.
-    - Box plots.
-    - Line plots.
-  - Statistical Analysis: Calculating metrics like bounce rate, conversion rate, and average session duration.
+    Bar charts.
+    Pie charts.
+    Histograms.
+    Box plots.
+    Line plots.
+    Pair plots.
+    Heatmaps (correlation matrices).
+    Funnel charts.
+    Interactive plots (scatter plots, histograms, box plots, time series plots) using Plotly Express.
+  - Statistical Analysis:
+    Calculating metrics like bounce rate, conversion rate, and average session duration.
+    Hypothesis testing (t-tests, ANOVA, Chi-square tests).
+    Correlation tests (Pearson correlation).
+    Regression analysis (OLS regression).
+    Stationarity testing (ADF test).
+  - Segmentation and Clustering:
+    RFM-like segmentation using K-Means clustering.
+    Segmentation based on conversion behavior.
+    Segmentation based on time on page.
+  - Machine Learning Models:
+    Linear regression for prediction.
+    Logistic regression for classification.
+    ARIMA models for time series forecasting.
+  - Model Evaluation:
+    Calculation of relevant metrics (MSE, accuracy, classification reports).
+    Visualization of model results.
+    Feature importance analysis.
 
 # Technologies 
   List with used technologies:
