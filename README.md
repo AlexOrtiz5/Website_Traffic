@@ -27,7 +27,7 @@
   - Visualization:
     - Bar charts.
     - Pie charts.
-    -mHistograms.
+    - Histograms.
     - Box plots.
     - Line plots.
     - Pair plots.
