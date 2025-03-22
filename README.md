@@ -63,6 +63,7 @@
   - Scikit-learn (sklearn): Library for machine learning models (regression, classification, clustering), preprocessing, and model evaluation.
   - Statsmodels: Library for statistical modeling, hypothesis testing, time series analysis, and regression.
   - Plotly Express: Library for creating interactive and dynamic visualizations.
+  - Tableau: Data visualization and business intelligence software for creating interactive dashboards and reports.
 
 # Project Description
   This project aims to analyze website traffic patterns, identify user behavior, and pinpoint areas for improvement in website design and user experience. The data used for this analysis was obtained from the 'Website Traffic' dataset available on Kaggle. This dataset provides a comprehensive snapshot of user interactions on a website, encompassing a variety of metrics designed to capture user behavior and website performance. The dataset's characteristics include a mix of numerical and categorical data, featuring columns such as 'Page Views', 'Session Duration', 'Bounce Rate', 'Traffic Source', 'Time on Page', 'Previous Visits', and 'Conversion Rate'.
