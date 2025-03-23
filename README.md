@@ -8,6 +8,7 @@
   List with methods:
   - Data Loading:
     - Reading the CSV dataset into a Pandas DataFrame.
+    - Connecting to and loading data within Tableau.
   - Data Cleaning:
     - Handling missing values (imputation, removal).
     - Data type correction (numeric conversions, string manipulation).
@@ -17,23 +18,24 @@
     - Scaling numerical data (StandardScaler, MinMaxScaler).
   - Filtering:
     - Selecting specific subsets of data based on conditions.
+    - Applying filters within Tableau dashboards.
   - Grouping:
     - Aggregating data based on categorical variables (e.g., traffic source).
+    - Grouping and creating hierarchies within Tableau.
   - Aggregation:
     - Calculating summary statistics (mean, median, count, etc.).
+    - Utilizing Tableau's aggregation functions (SUM, AVG, COUNT, etc.).
   - Feature Engineering:
     - Creating interaction and ratio features.
     - Creating binary features.
+    - Creating calculated fields within Tableau.
   - Visualization:
-    - Bar charts.
-    - Pie charts.
-    - Histograms.
-    - Box plots.
-    - Line plots.
-    - Pair plots.
-    - Heatmaps (correlation matrices).
-    - Funnel charts.
-    - Interactive plots (scatter plots, histograms, box plots, time series plots) using Plotly Express.
+    - Generating bar charts, pie charts, histograms, box plots, line plots, pair plots, and heatmaps using Python libraries.
+    - Creating funnel charts and interactive plots (scatter plots, histograms, box plots, time series plots) using Plotly Express.
+    - Creating various chart types within Tableau.
+    - Building interactive dashboards with multiple linked visualizations in Tableau.
+    - Implementing filters, actions, and parameters for interactivity in Tableau.
+    - Utilizing tooltips and highlighting features in Tableau.
   - Statistical Analysis:
     - Calculating metrics like bounce rate, conversion rate, and average session duration.
     - Hypothesis testing (t-tests, ANOVA, Chi-square tests).
@@ -41,9 +43,9 @@
     - Regression analysis (OLS regression).
     - Stationarity testing (ADF test).
   - Segmentation and Clustering:
-    - RFM-like segmentation using K-Means clustering.
-    - Segmentation based on conversion behavior.
-    - Segmentation based on time on page.
+    - Performing RFM-like segmentation using K-Means clustering with Scikit-learn.
+    - Implementing segmentation based on conversion behavior and time on page using Pandas and potentially Tableau calculations.
+    - Creating clusters and segmenting data within Tableau.
   - Machine Learning Models:
     - Linear regression for prediction.
     - Logistic regression for classification.
