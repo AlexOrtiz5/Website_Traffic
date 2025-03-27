@@ -4,6 +4,8 @@
 # Project objective
   The primary objective of this project is to gain actionable insights into website performance by analyzing user traffic patterns and behavior derived from the 'Website Traffic' dataset sourced from Kaggle (https://www.kaggle.com/datasets/anthonytherrien/website-traffic). This analysis will focus on understanding key metrics including page views, session duration, bounce rate, traffic source, time on page, previous visits, and conversion rate. The ultimate goal is to identify specific areas for improvement in website design and user experience, ultimately aiming to enhance overall website performance and optimize the user journey towards higher conversion rates and engagement.
 
+  To see the dashboad https://public.tableau.com/views/Traffic_Dashboard_17430958448370/UserBehaviorDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # Methods
   List with methods:
   - Data Loading:
