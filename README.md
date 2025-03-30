@@ -1,5 +1,5 @@
 # Website Traffic
-  Project status(Active)
+  Project status(Complete)
 
 # Project objective
   The primary objective of this project is to gain actionable insights into website performance by analyzing user traffic patterns and behavior derived from the 'Website Traffic' dataset sourced from Kaggle (https://www.kaggle.com/datasets/anthonytherrien/website-traffic). This analysis will focus on understanding key metrics including page views, session duration, bounce rate, traffic source, time on page, previous visits, and conversion rate. The ultimate goal is to identify specific areas for improvement in website design and user experience, ultimately aiming to enhance overall website performance and optimize the user journey towards higher conversion rates and engagement.
@@ -110,5 +110,5 @@
   Finally, the RFM-like segmentation identified distinct user groups based on their engagement levels, and analyzing the characteristics of converted and high time-on-page users provides valuable information for targeted improvements. Overall, these findings underscore the importance of optimizing content engagement, enhancing user experience, and leveraging returning visitors to drive conversions.
   
 # Contact
-  linkedin, github, etc 
+  linkedin, github, etc (For more information see my profile)
   
